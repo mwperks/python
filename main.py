@@ -1,10 +1,5 @@
-price=10
-stock=5
-print(price)
-print(stock)
-print(price+stock)
-total=price*stock
-print(total)
-price=stock
-print(price)
-print(PRICE)
+product_name="iPhone"
+product_price=450
+print(product_name)
+print(product_price)
+print(product_name, product_price)
