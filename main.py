@@ -1,12 +1,8 @@
-import random
-myName=input("Hello! What is your name?")
-print(myName)
-starter=input("What is your favourite starter?")
-main=input("What is your favourite main course?")
-dessert=input("What is your favourite dessert?")
-drink=input("What is your favourite drink?")
-
-print("Your favourite meal is "+ main + " with a glass of " + drink)
-
-
-
+product_name="motorbike"
+price= 2000
+price_reduction =(price *  0.10)
+price = price - price_reduction
+print(str(price)) 
+if (price >1000):
+ price_reduction =(price *  0.10)
+ price = price - price_reduction
