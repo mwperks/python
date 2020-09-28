@@ -1,6 +1,7 @@
-name=input("what is your name?")
-print(name)
-print("Hello"+name)
+product_name=input("What is the product name")  
+product_price=float(input("What is the price?"))
+product_quantity=int(input("How many products are there?"))
 
-question=input("what city do you live in?")
+total_price=product_quantity*product_price
+print("Total Price:"+total_price)
 
