@@ -1,5 +1,5 @@
 price=10
-stock=10
+stock=5
 print(price)
 print(stock)
 print(price+stock)
