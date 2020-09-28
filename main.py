@@ -1,7 +1,11 @@
-product_name=input("What is the product name")  
-product_price=float(input("What is the price?"))
-product_quantity=int(input("How many products are there?"))
+weather="raining"
+if weather=="raining":
+  print("Take Umbrella")
+else:
+    print("Wear Coat")
 
-total_price=product_quantity*product_price
-print("Total Price:"+total_price)
-
+weather=input("Is it raining or not?")
+if weather=="raining":
+  print("Take Umbrella")
+else:
+  print("Wear Coat")
