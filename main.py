@@ -1,10 +1,5 @@
-def shoePrice
-
-if (shoePrice < 9.99):
-  cheapShoe=True
-else:
-  cheapShoe=False
-if (not(cheapShoe)):
-  print("The shoe is expensive")
-else:
-  print("This shoe is cheap")
+if a = True
+  a = True
+elif b = False
+  b = False
+a=get_user_input_boolean()
