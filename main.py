@@ -1,3 +1,2 @@
-text="examples"
-print (text[2:5])
+myFile=open ("DataFile.txt", "w")
 
