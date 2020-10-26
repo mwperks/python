@@ -1,4 +1,3 @@
 text="examples"
-x=len (text)
-print (x)
+print (text[2:5])
 
